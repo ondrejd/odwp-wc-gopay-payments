@@ -1,6 +1,7 @@
 # GoPay Payments for WooCommerce
 
-__GitHub__: [https://github.com/ondrejd/odwp-wc-gopay-payments](https://github.com/ondrejd/odwp-wc-gopay-payments)
+[![GoPay](https://account.gopay.com/download/gopay_bannery-modre.png "GoPay Logo")](https://www.gopay.com/)
+
+__České verze:__ [README.cs.md](https://github.com/ondrejd/odwp-wc-gopay-payments/blob/master/README.cs.md)
 
 Plugin for [WordPress](https://wordpress.org/) and [WooCommerce](https://woocommerce.com/) that enables payments via __[GoPay](https://www.gopay.com/)__ service.
-
