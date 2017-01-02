@@ -1,4 +1,4 @@
-# GoPay Payments for WooCommerce
+# GoPay platby pro WooCommerce
 
 [![GoPay](https://account.gopay.com/download/gopay_bannery-modre.png "Logo GoPay")](https://www.gopay.com/)
 
